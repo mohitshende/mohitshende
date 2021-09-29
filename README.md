@@ -13,7 +13,7 @@
 <a href="https://instagram.com/mohit_shende" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="30px" src="insta.svg" /></a>
 <a href="https://twitter.com/mohitshende27" target="_blank"><img align="left" alt="Aakarsh B | Twitter" width="30px" src="twitter.svg" /></a>
 
-<a href="https://dev.to/mohitshende" target="_blank"><img align="left" alt="dev to aakarsh" width="22px" src="dev-badge.svg" /></a>
+<a href="https://dev.to/mohitshende" target="_blank"><img align="left" alt="dev to aakarsh" width="30px" src="dev-badge.svg" /></a>
 
 <br />
 <br />
